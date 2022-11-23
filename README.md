@@ -13,7 +13,7 @@ Software Developer
 <br/>  
 
 
-## My Skill Set  
+## Languages - Tools  
 <table><tr><td valign="top" width="50%">
 
 
@@ -77,10 +77,6 @@ Software Developer
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammetrifat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
