@@ -4,7 +4,7 @@
 Software Developer  
   
 
-- 🔭 I’m currently working on .Net development.  
+- 🔭 I’m currently working on .Net Core development.  
   
 
 - 🌱 I’m currently learning RabbitMQ, Docker, Microservice  
